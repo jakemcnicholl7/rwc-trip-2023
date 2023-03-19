@@ -1,0 +1,17 @@
+
+h2.inbound {
+    color: #A0E7A0;
+}
+
+h2.outbound {
+    color: #FF7779;
+}
+
+button {
+    border-radius: 12px;
+    border: none;
+}
+
+button:hover {
+    background-color: #4169e1;
+}
