@@ -18,6 +18,11 @@ a:hover {
 
 button {
     background-color: #B0B0B0;
+    color: white;
+}
+
+link {
+    color: white;
 }
 
 .progress-bar {
@@ -27,9 +32,7 @@ button {
 
 button:hover {
     background-color: #ff5c5c;
-}
-
-.frame {
+    color: white;
 }
 
 #map_frame {
